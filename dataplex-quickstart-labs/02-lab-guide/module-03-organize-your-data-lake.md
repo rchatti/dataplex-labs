@@ -75,6 +75,8 @@ To add a zone, you must be granted IAM roles containing the dataplex.lakes.creat
 ## 2. Lab - Foundations
 
 In this lab module, we will organize all the lab assets into a Dataplex Lake and into Zones.
+##### NOTE: 
+Run the scripts below in a Ford-approved shell editor. It is assumed that you performed `gcloud auth login` successfully from your terminal, and are connected to the right `prj-df-dataplex` sandbox, to run the lab instrcutions.
 
 ### 2.1. Declare variables
 
